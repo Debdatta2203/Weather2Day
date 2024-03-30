@@ -4,7 +4,7 @@ Hi, Welcome to my weather app, `Weather2Day`.
     Weather2Day is an app that gives the current weather condition of the user entered city. It provides the user with a detailed information of the temperature, humidity, wind, precipitatio, uvIndex and the time of the sunrise and sunset as well.
     This project is build using React JS, to make a concise app with reusable components, faster rendering and smooth user experience. The city based weather information is fetched using an open-source API of Visual Crossing Weather. 
     
-# The app is hosted at https://github.com/facebook/create-react-app .
+# The app is hosted at https://weatherr2day.netlify.app/ .
 
 # Steps to use Weather2Day
     1. New user need to register into the app on the url, /signUp.
